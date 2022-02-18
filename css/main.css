@@ -1,0 +1,212 @@
+.Home {
+    width: 1800px;
+    height: 2423px;
+    padding-left: 130px;
+    padding-right: 130px;
+    background-color: #fff;
+}
+
+.image {
+    width: 188px;
+    height: 84px;
+    margin: 7px 84px 4px 0;
+    padding-right: 84px;
+    padding-left: 130px;
+    float: left;
+}
+
+.navi navigation {
+    float: left;
+    display: inline;
+}
+
+ul.rmbull {
+    list-style-type: none;
+    display: inline;
+}
+
+.rmbull li {
+    display: inline;
+    padding: 18px;
+    float: left;
+}
+
+.DIT-PERSONALE {
+    width: 132px;
+    height: 29px;
+    padding-top: 67px;
+    font-family: TitilliumWeb;
+    font-size: 19px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+}
+
+.DIN-VIRKSOMHED {
+    width: 147px;
+    height: 29px;
+    padding-top: 67px;
+    font-family: TitilliumWeb;
+    font-size: 19px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+}
+
+.VORES-BRANCHE {
+    width: 142px;
+    height: 29px;
+    padding-top: 67px;
+    font-family: TitilliumWeb;
+    font-size: 19px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+}
+
+.MEDLEMSFORDELE {
+    width: 161px;
+    height: 29px;
+    padding-top: 67px;
+    font-family: TitilliumWeb;
+    font-size: 19px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+}
+
+.BLIV-MEDLEM {
+    width: 115px;
+    height: 29px;
+    padding-top: 67px;
+    font-family: TitilliumWeb;
+    font-size: 19px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+}
+
+.text {
+    position: relative;
+}
+
+.imge {
+    width: 1540px;
+    height: 608px;
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 57px;
+    margin: 4px 0 0;
+    background-image: linear-gradient(to top, white(255, 251, 251, 0), #373737);
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1036px;
+    height: 98px;
+    margin: 0 0 17px;
+    font-family: TitilliumWeb;
+    font-size: 100px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.98;
+    letter-spacing: normal;
+    text-align: left;
+    color: black;
+}
+
+.discp {
+    width: 882px;
+    height: 37px;
+    font-family: TitilliumWeb;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+}
+
+#discrp {
+    width: 939px;
+    height: 53px;
+    margin: 17px 92px 36px 5px;
+    padding: 8px 28px 8px 29px;
+    background-color: #000;
+}
+
+.headr {
+    display: inline;
+    padding: 130px;
+    width: 522px;
+    height: 61px;
+    margin: 90px 262px 26px 126px;
+    font-family: TitilliumWeb;
+    font-size: 40px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+}
+
+.Line-8 {
+    width: 700px;
+    height: 1px;
+    background-color: #000;
+    float: right;
+}
+
+.glrypic {
+    padding: 0px;
+}
+
+.image-1,
+.image-2,
+.image-3 {
+    float: left;
+    padding: 20px;
+}
+
+.image-5 {
+    float: left;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.footerimg {
+    width: 1800px;
+    height: 395.9px;
+}
